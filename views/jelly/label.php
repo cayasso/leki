@@ -1,0 +1,1 @@
+{#Form::label($for, $text, $attributes)}

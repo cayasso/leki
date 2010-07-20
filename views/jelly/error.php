@@ -1,0 +1,1 @@
+<span{#HTML::attributes($attributes)}>{$text}</span>

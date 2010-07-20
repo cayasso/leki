@@ -1,0 +1,1 @@
+<?php echo Form::date($name, $value, $attributes + array('id' => 'field-'.$name, 'class' => 'date')); ?>

@@ -1,0 +1,1 @@
+<?php echo Form::number($name, $value, $attributes + array('id' => 'field-'.$name)); ?>
